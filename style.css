@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+.jersey{
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 72px;
+  }
+span{
+    color: darkorange;
+}
+.half-wid{
+    line-height: 5px;
+    letter-spacing: 2px;
+    width: 50%;
+    margin: 80px 0px 50px 100px;
+    padding-left: 2%;
+}
+.half-wid p{
+    text-align: justify;
+    display: block;
+    line-height: normal;
+    font-size: 28px;
+    letter-spacing: 0px;
+}
+.half-wid img{
+    height: 500px;
+    width: 350px;
+    margin-left: 50px;
+}
+.sec1{
+    display: flex;
+    margin-bottom: 80px;
+}
+.btn{
+    background-image: linear-gradient(orange,red);
+    border-radius: 25px;
+    border: none;
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 15px 25px;
+    color: aliceblue;
+}
+#para{
+    margin-right: 80px;
+}
+#photo1 img{
+    margin-left: 80px;
+    height: 100%;
+}
+.ex{
+    margin-left: 0px;
+}
+#bgase{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
