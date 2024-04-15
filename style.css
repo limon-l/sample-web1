@@ -57,3 +57,63 @@ span{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.menu{
+    height: 400px;
+    width: 325px;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: 10px 10px 60px gray;
+    margin-left: 100px;
+    padding-left: 25px;
+}
+.menu_item{
+    height: 200px;
+    width: 300px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+#menucard{
+    display: flex;
+    margin-left: -80px;
+    justify-content: center;
+    margin-bottom: 80px;
+
+}
+#heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 80px;
+}
+#heading p{
+    font-size: 24px;
+    padding: 0px 100px;
+}
+#reach{
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px grey;
+    width: 82.5%;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+.rich{
+    text-align: center;
+    height: 100px;
+    font-size: 40px;
+    margin: 30px 120px;
+    line-height: 0px;
+}
+.rich p{
+    font-size: 24px;
+}
+#foot{
+    height: 250px;
+    margin-top: 80px;
+    text-align: center;
+    background-color: grey;
+}
+#footed{
+    padding-top: 80px;
+}
